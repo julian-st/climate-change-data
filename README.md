@@ -67,7 +67,6 @@ This set of resources is based on my own research but feel free to add anything 
 |  CO2 PPM - Trends in Atmospheric Carbon Dioxide | [LINK](https://datahub.io/core/co2-ppm#r "LINK") | CO2 emissions | CO2 PPM - Trends in Atmospheric Carbon Dioxide. Data are sourced from the US Government's Earth System Research Laboratory, Global Monitoring Division. |
 |  Data World Data | [LINK](https://data.world/datasets/global-warming "LINK") | various | A range of environmental, geospatial, weather, air, etc. open datasets |
 |  Environmental Intelligence | [LINK](https://github.com/rockita/Environmental_Intelligence "LINK") | various | A GitHub repo collating numerous open data resources on climate change, water, forest, biodiversity, etc. |
-Here are a couple of recommendations for APIs and open data sources related to climate change that are missing from your list:
 |  Glacier Mass balance data | [LINK](https://datahub.io/core/glacier-mass-balance "LINK") | glaciers | Average cumulative mass balance of "reference" Glaciers worldwide from 1945-2014 sourced from US EPA and the World Glacier Monitoring Service (WGMS). |
 | Global Biodiversity Information Facility (GBIF) | [LINK](https://gbif.org "LINK") | various | A global database of biodiversity data, which can be critical for understanding the impacts of climate change on species and ecosystems. |
 |  Global Carbon Budget | [LINK](https://github.com/openclimatedata/global-carbon-budget) | various | Annual data publication of carbon cycle sources and sinks. |
